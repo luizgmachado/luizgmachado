@@ -2,9 +2,10 @@
 
 ![](https://radio.x-team.com/_next/static/media/mario.2484c967.gif) 
 
-##
+<hr>
 
-</br>
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/luizgmachado">
@@ -12,18 +13,18 @@
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <br/>
+<br>
   
   <strong align="left">Linguagens e tecnologias:</strong>
   
-  <br/>
+<br>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vscode,figma,)](https://skillicons.dev)
 
-  ##
+<hr>
   
-  <br/>
- 
+<br>
+  
 <div> 
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luiz.gustavo.machado@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
