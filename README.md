@@ -2,7 +2,7 @@
 
 ![](https://radio.x-team.com/_next/static/media/mario.2484c967.gif) 
 
-<hr>
+#
 
 <br>
 <br>
@@ -21,7 +21,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vscode,figma,)](https://skillicons.dev)
 
-<hr>
+#
   
 <br>
   
