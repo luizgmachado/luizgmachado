@@ -1,5 +1,9 @@
 <h1  align="center"> Hello👋🏼 welcome to my Profile! </h1>
 
+![](https://radio.x-team.com/_next/static/media/mario.2484c967.gif) 
+
+</br>
+
 <div align="center">
   <a href="https://github.com/luizgmachado">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,7 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vscode,figma,)](https://skillicons.dev)
 
-  
   ##
   
   <br/>
