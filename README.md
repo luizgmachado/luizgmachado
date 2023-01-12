@@ -12,6 +12,7 @@
   <strong align="left">Linguagens e tecnologias:</strong>
   
 <br>
+
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vscode,figma,)](https://skillicons.dev)
 
