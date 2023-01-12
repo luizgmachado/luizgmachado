@@ -6,12 +6,6 @@
 
 <br>
 <br>
-
-<div align="center">
-  <a href="https://github.com/luizgmachado">
-  <img  height="178em" src="https://github-readme-stats.vercel.app/api?username=luizgmachado&show_icons=true&theme=tokyonight">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&theme=tokyonight">
-</div>
  
 <br>
   
