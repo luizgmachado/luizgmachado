@@ -6,10 +6,6 @@
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=luizgmachado&theme=tokyonight&show_icons=true&hide_border=true" />
-
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizgmachado&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizgmachado&theme=tokyonight&utcOffset=8" />
 </div>
@@ -38,6 +34,5 @@
   ![Snake animation](https://github.com/luizgmachado/luizgmachado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4D4DFF&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=409fff&height=100&section=footer"/>
