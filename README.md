@@ -5,13 +5,13 @@
 #
 
 <div align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight&card_width=625"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizgmachado&theme=tokyonight" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizgmachado&theme=tokyonight&utcOffset=8" />
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&theme=tokyonight&hide_border=true&card_width=632"/>
 </div>
 
 
