@@ -12,6 +12,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizgmachado&theme=tokyonight&utcOffset=8" />
 </div>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgmachado&theme=dark&show_icons=true)
+
 <br>
 <br>
  
@@ -20,9 +22,6 @@
   <strong align="left">Linguagens e tecnologias:</strong>
   
 <br>
-
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vscode,figma,)](https://skillicons.dev)
 
 #
   
