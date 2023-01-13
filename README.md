@@ -4,6 +4,14 @@
 
 #
 
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizgmachado&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizgmachado&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizgmachado&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizgmachado&theme=tokyonight&utcOffset=8" />
+</div>
+
 <br>
 <br>
  
