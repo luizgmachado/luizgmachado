@@ -12,9 +12,9 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizgmachado&theme=tokyonight&utcOffset=8&card_width=600" />
 </div>
 
-<div align="center">
+<!-- <div align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&theme=tokyonight&hide_border=true&card_width=632"/>
-</div>
+</div> -->
 
 
 <br>
