@@ -16,10 +16,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&theme=tokyonight&hide_border=true&card_width=632"/>
 </div> 
 
-
 <br>
 <br>
- 
 <br>
   
   <h2><strong align="left">Linguagens e tecnologias:</strong></h2>
