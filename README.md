@@ -2,7 +2,7 @@
 
 <br>
 
-![image](https://radio.x-team.com/_next/static/media/mario.2484c967.gif)
+![image](https://camo.githubusercontent.com/1483f0613e9aaa78a4e3fd0f8b7d0bd9942f1a1d6df14574c2ae65d0ae066d84/68747470733a2f2f726164696f2e782d7465616d2e636f6d2f5f6e6578742f7374617469632f6d656469612f6d6172696f2e32343834633936372e676966)
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight&card_width=600"/>
