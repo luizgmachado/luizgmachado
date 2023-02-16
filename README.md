@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://radio.x-team.com/_next/static/media/mario.2484c967.gif) 
+![imag](https://radio.x-team.com/_next/static/media/mario.2484c967.gif) 
 
 #
 
