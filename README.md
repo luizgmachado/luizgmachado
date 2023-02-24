@@ -1,8 +1,10 @@
-<h2  align="center> Olá, 👋🏼 Seja mauito vem vindo ao meu perfil!! </h2>
+<h2 align="center"> Olá, 👋🏼 Seja mauito vem vindo ao meu perfil!! </h2>
 
 <br>
-
+        
 ![image](https://radio.x-team.com/_next/static/media/mario.2484c967.gif)
+
+
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizgmachado&theme=tokyonight&card_width=600"/>
