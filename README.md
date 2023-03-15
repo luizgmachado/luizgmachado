@@ -23,7 +23,7 @@
   
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,vscode,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,node,vite,next,vscode,figma,git)](https://skillicons.dev)
 
 #
   
