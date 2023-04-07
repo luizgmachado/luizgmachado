@@ -35,10 +35,12 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-machado-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
+  
   ##
  
   ![Snake animation](https://github.com/luizgmachado/luizgmachado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=523fff&height=100&section=footer"/>
