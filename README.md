@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, 👋🏼 welcome to my profile! </h2>
+<h2 align="center"> Hello, 👋🏼 welcome to my profile!</h2>
 
 <br>
         
@@ -11,7 +11,7 @@
 
 </div>
 
-<div align="center"> 
+<div align="center"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgmachado&layout=compact&theme=tokyonight&hide_border=true&card_width=690"/>
 </div> 
 
