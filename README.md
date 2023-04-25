@@ -18,16 +18,18 @@
 <br>
 <br>
 <br>
+
+---
   
   <h2><strong align="left">Linguagens e tecnologias:</strong></h2>
   
 <br>
---
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,next,vscode,figma,git,netlify)](https://skillicons.dev)
 
 #
-  
+
 <br>
   
 <div> 
