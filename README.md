@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"/>        
-   <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="85%"/>
+   <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="83%"/>
 </div> 
 
 <div align="center">
