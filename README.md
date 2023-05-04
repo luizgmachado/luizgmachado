@@ -22,7 +22,6 @@
 <br>
 <br>
 
----
   
   <h2><strong align="left">Linguagens e tecnologias:</strong></h2>
   
