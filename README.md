@@ -27,7 +27,6 @@
   
 <br>
 
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,next,vscode,figma,git,netlify)](https://skillicons.dev)
 
 #
