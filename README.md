@@ -1,9 +1,10 @@
-<h2 align="center"> Hello, 👋🏼 welcome to my profile!</h2>
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20Luiz%20Gustavo%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 
 <br>
 
 <div align="center"/>        
-   <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="83%"/>
+   <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%"/>
 </div> 
 
 <div align="center">
@@ -49,4 +50,4 @@
 </div>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=523fff&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=100&section=footer"/>
