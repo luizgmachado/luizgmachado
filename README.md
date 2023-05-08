@@ -22,6 +22,8 @@
 <br>
 <br>
 
+---
+
 <h2><strong align="center">Linguagens e tecnologias que utilizo</strong></h2>
   
 <br>
@@ -30,7 +32,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,next,vscode,figma,git,netlify"/></a>
 </div>
 
-#
+---
 
 <h2><strong align="center">Meus Contatos</strong></h2>
 
@@ -42,6 +44,7 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-machado-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
+---
   
   ##
  
