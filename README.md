@@ -22,8 +22,7 @@
 <br>
 <br>
 
-  
-  <h2><strong align="center">Linguagens e tecnologias:</strong></h2>
+<h2><strong align="center">Linguagens e tecnologias que utilizo</strong></h2>
   
 <br>
 
@@ -32,7 +31,9 @@
 </div>
 
 #
- <h2><strong align="center">Contatos:</strong></h2>
+
+<h2><strong align="center">Meus Contatos</strong></h2>
+
 <br>
   
 <div align="center"> 
