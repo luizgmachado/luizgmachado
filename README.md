@@ -1,5 +1,5 @@
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3406a1&height=150&section=header&text=Hi%20there,%20Welcome%20to%20my%20profile%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 
 <br>
 
@@ -53,4 +53,4 @@
 </div>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3406a1&height=100&section=footer"/>
